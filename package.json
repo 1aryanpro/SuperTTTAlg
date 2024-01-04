@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "mcts": "^0.0.8",
+    "readline-sync": "^1.4.10"
+  }
+}
